@@ -1,4 +1,5 @@
 def hello()
 {
-  echo "hai hello"
+  println("hello")
 }
+return this
